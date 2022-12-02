@@ -1,6 +1,6 @@
 # Spryker Feature: Configurable Product Wishlist
 
-
+The Configurable Product Wishlist feature allows customers to save configurable products in their wishlist. Customers can save products that are fully configured and products that are not completely configured, to finish configuration at a later time.
 
 ## Installation
 
