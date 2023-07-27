@@ -2,6 +2,8 @@
 
 The Configurable Product Wishlist feature allows customers to save configurable products in their wishlist. Customers can save products that are fully configured and products that are not completely configured, to finish configuration at a later time.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/configurable-product-feature-overview/configurable-product-feature-overview.html)
+
 ## Installation
 
 ```
