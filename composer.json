@@ -7,12 +7,12 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-configuration-wishlist-widget": "^1.0.0",
+        "spryker-shop/product-configuration-wishlist-widget": "^1.1.0",
         "spryker/product-configuration-wishlist": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
